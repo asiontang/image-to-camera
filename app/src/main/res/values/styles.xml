@@ -1,11 +1,11 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="android:DeviceDefault.Light.ButtonBar">
         <!-- Customize your theme here. -->
     </style>
 
-    <color name="default_background">?attr/actionBarItemBackground</color>
+    <color name="default_background"></color>
     <color name="setting_item_bg">@color/default_background</color>
     <color name="setting_item_pressed">#9E9E9E</color>
 
