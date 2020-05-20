@@ -1,3 +1,8 @@
+# Changed By AsionTang
+
+1. Fixed: Work On Android API 29
+2. Add Release Version 
+
 # image-to-camera
 An android "fake" camera app to select an image
 
